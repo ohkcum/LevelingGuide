@@ -1,0 +1,1481 @@
+{
+    "ZoneData": {
+        "1_1_1": {
+            "Name": "[Y:Twilight Strand]",
+            "Tasks": [
+                "Pick up weapons + gems along the way",
+                "Defeat [C:Hillock] — attack + dodge, spam potions freely",
+                "Enter [Y:Lioneye's Watch]",
+                "[BUILD] Use Rolling Magma + Holy Flame Totem to clear"
+            ]
+        },
+        "1_1_town": {
+            "Name": "[Y:Lioneye's Watch]",
+            "Tasks": [
+                "Turn in quest [G:Enemy at the Gate]",
+                "[C:Tarkleigh]: take first gem",
+                "[C:Nessa]: sell potions, jewelry, caster items",
+                "[C:Tarkleigh]: sell weapons, armour",
+                "[C:Bestel]: gambler + respec",
+                "Head North → [Y:The Coast]",
+                "[BUILD] buy gem: Rolling Magma, Elemental Proliferation, Combustion",
+                "[BUILD] Setup: Rolling Magma + Elem Prolif + Combustion",
+                "[BUILD] buy Holy Flame Totem từ Nessa"
+            ]
+        },
+        "1_1_2": {
+            "Name": "[Y:The Coast]",
+            "Tasks": [
+                "Take [G:Waypoint]",
+                "SKIP [Y:Tidal Island] — will return later!",
+                "Run straight to [Y:The Mud Flats]"
+            ]
+        },
+        "1_1_3": {
+            "Name": "[Y:The Mud Flats]",
+            "Tasks": [
+                "SKIP [Y:Fetid Pool]!",
+                "Quest [G:Breaking Some Eggs]: find 3 [G:Rhoa Eggs]",
+                "Kill Rhoas, pick up 3 eggs → place in wall to open way",
+                "Tip: Rhoas charge straight — move sideways to dodge",
+                "Quest Reward: [G:Level 4 Gems]",
+                "Enter [Y:The Submerged Passage]"
+            ]
+        },
+        "1_1_4_1": {
+            "Name": "[Y:The Submerged Passage]",
+            "Tasks": [
+                "Take [G:Waypoint] immediately!",
+                "WP back to [Y:Lioneye's Watch] — buy/sell items",
+                "From town: WP to [Y:The Coast] → enter [Y:Tidal Island]"
+            ]
+        },
+        "1_1_2a": {
+            "Name": "[Y:Tidal Island]",
+            "Tasks": [
+                "Quest [G:Mercy Mission]: defeat [C:Hailrake]",
+                "Hailrake casts frost/chill — attack + strafe to dodge",
+                "Pick up [G:Medicine Chest]",
+                "Quest Reward: [G:Quicksilver Flask] + Gem Reward",
+                "Logout to [Y:Lioneye's Watch] — turn in quest"
+            ]
+        },
+        "1_1_4_1b": {
+            "Name": "[Y:The Submerged Passage] (2nd time)",
+            "Tasks": [
+                "WP từ town về [Y:The Submerged Passage]",
+                "Find way down to [Y:The Flooded Depths] — place [G:Portal]",
+                "Continue to [Y:The Ledge]",
+                "Tip: Can skip Flooded Depths, return when stronger"
+            ]
+        },
+        "1_1_4_0": {
+            "Name": "[Y:The Flooded Depths]",
+            "Tasks": [
+                "Quest [G:The Dweller of the Deep]",
+                "Find and defeat [C:The Dweller of the Deep]",
+                "Boss in large room, opposite entrance",
+                "Hard boss — can return when stronger!",
+                "Quest Reward: [G:Passive Skill Point]",
+                "Logout to [Y:Lioneye's Watch]"
+            ]
+        },
+        "1_1_5": {
+            "Name": "[Y:The Ledge]",
+            "Tasks": [
+                "Linear zone — run straight",
+                "Take [G:Waypoint] in middle of zone",
+                "Tip: After WP, 3 triangular rocks point to exit",
+                "Go to [Y:The Climb]"
+            ]
+        },
+        "1_1_6": {
+            "Name": "[Y:The Climb]",
+            "Tasks": [
+                "Linear zone — 2 optional bosses",
+                "[G:Waypoint] near start of zone, slightly off-center",
+                "Find gate in wall → [Y:The Lower Prison]"
+            ]
+        },
+        "1_1_7_1": {
+            "Name": "[Y:The Lower Prison]",
+            "Tasks": [
+                "take [G:Waypoint] → WP back to town buy [G:Level 8 Gems]",
+                "Quest Reward: [G:Level 8 Gems]",
+                "Complete [G:Trial of Ascendancy] (don't skip!)",
+                "Enter [Y:The Upper Prison]",
+                "[BUILD] Lv8: Nên có Rolling Magma + Totem setup đầy enough"
+            ]
+        },
+        "1_1_7_2": {
+            "Name": "[Y:The Upper Prison]",
+            "Tasks": [
+                "Find hidden [G:Strongbox]: map icon but blocked by wall",
+                "Find [G:SWITCH] on pillar near wall → open wall for flask",
+                "Enter [Y:The Warden's Quarters]:",
+                "  → go theo đường dài → quay ngược song song → lên phòng nhỏ",
+                "  → Defeat [C:Brutus, Lord Incarcerator]",
+                "  → Mẹo: Cần SUSTAIN! Chết rồi enter lại — boss KHÔNG reset full HP",
+                "Quest Reward: [G:Level 10 Gems]",
+                "Pass through → [Y:Prisoner's Gate]",
+                "[BUILD] Sau Brutus: receive gem support — take Added Lightning Damage"
+            ]
+        },
+        "1_1_8": {
+            "Name": "[Y:Prisoner's Gate]",
+            "Tasks": [
+                "Take [G:Waypoint] at start of zone",
+                "Fake gate closed by [C:Piety] at end of main road!",
+                "Find hidden path on opposite side, by wall → go deep",
+                "Enter [Y:The Ship Graveyard]"
+            ]
+        },
+        "1_1_9": {
+            "Name": "[Y:The Ship Graveyard]",
+            "Tasks": [
+                "Take [G:Waypoint] at start of zone",
+                "Find [Y:Ship Graveyard Cave] in middle of zone, near shipwreck",
+                "Don't get distracted by other paths — find Cave!"
+            ]
+        },
+        "1_1_9a": {
+            "Name": "[Y:Ship Graveyard Cave]",
+            "Tasks": [
+                "Go straight opposite entrance",
+                "Defeat [C:Stranglecharm], pick up [G:Allflame]",
+                "Pass through wall behind boss → back to [Y:Ship Graveyard]"
+            ]
+        },
+        "1_1_9b": {
+            "Name": "[Y:The Ship Graveyard] (2nd time)",
+            "Tasks": [
+                "Exiting Cave → [C:Fairgraves] right in front!",
+                "Defeat [C:Captain Fairgraves] + his crew",
+                "Quest [G:The Marooned Mariner] Reward: [G:Passive Skill Point]",
+                "Find entrance to [Y:Cavern of Wrath] on wall"
+            ]
+        },
+        "1_1_11_1": {
+            "Name": "[Y:Cavern of Wrath]",
+            "Tasks": [
+                "Take [G:Waypoint] at start of zone",
+                "Linear zone — run straight to [Y:Cavern of Anger]"
+            ]
+        },
+        "1_1_11_2": {
+            "Name": "[Y:Cavern of Anger]",
+            "Tasks": [
+                "Linear zone → find entrance to [Y:Merveil's Lair] on wall",
+                "[BUILD] ĐỔI SANG ABSOLUTION! Lv12+ buy/receive Absolution",
+                "[BUILD] Setup: Absolution + Added Lightning + Added Fire",
+                "[BUILD] Passive: go thẳng đến Spiritual Command"
+            ]
+        },
+        "1_1_12": {
+            "Name": "[Y:Merveil's Lair]",
+            "Tasks": [
+                "ACT 1 BOSS: [C:Merveil, the Siren]",
+                "Deals strong [C:Cold damage] — multiple phases",
+                "DODGE large cyclones touching cave ceiling!",
+                "Kill minions she spawns",
+                "Recommended level: 12",
+                "After victory → head North → [Y:The Southern Forest] (Act 2)"
+            ]
+        },
+        "1_2_1": {
+            "Name": "[Y:The Southern Forest]",
+            "Tasks": [
+                "Run straight North — linear zone",
+                "Find gate in wall → [Y:The Forest Encampment]"
+            ]
+        },
+        "1_2_town": {
+            "Name": "[Y:The Forest Encampment]",
+            "Tasks": [
+                "[C:Greust]: sell weapons, armour",
+                "[C:Yeena]: sell gems, potions, jewelry — ID items miễn phí!",
+                "[C:Silk]: gambler + respec",
+                "Head North from town → [Y:The Old Fields]",
+                "[BUILD] buy Shield Charge + Frost Blink để di chuyển",
+                "[BUILD] buy Vitality + Clarity aura",
+                "[BUILD] Passive: tiếp tục đến Spiritual Command"
+            ]
+        },
+        "1_2_2": {
+            "Name": "[Y:The Old Fields]",
+            "Tasks": [
+                "Linear zone — follow the path",
+                "(Optional) [Y:The Den] for [G:Quicksilver Flask]",
+                "Enter [Y:The Crossroads]"
+            ]
+        },
+        "1_2_3": {
+            "Name": "[Y:The Crossroads]",
+            "Tasks": [
+                "IMPORTANT ZONE — hub connecting 3 directions!",
+                "Take [G:Waypoint] in middle of zone",
+                "1) NORTHWEST → [Y:Chamber of Sins]",
+                "2) NORTHEAST → [Y:The Broken Bridge]",
+                "3) SOUTHEAST → [Y:The Fellshrine Ruins]"
+            ]
+        },
+        "1_2_6_1": {
+            "Name": "[Y:Chamber of Sins Level 1]",
+            "Tasks": [
+                "Linear zone — [G:Waypoint] in middle",
+                "Find stairs down → [Y:Chamber of Sins Level 2]"
+            ]
+        },
+        "1_2_6_2": {
+            "Name": "[Y:Chamber of Sins Level 2]",
+            "Tasks": [
+                "Complete [G:Trial of Ascendancy] — opposite side of boss",
+                "Find long corridor → boss [C:Fidelitas, the Mourning]",
+                "Defeat Fidelitas, take [G:Baleful Gem]",
+                "Talk to [C:Helena]",
+                "Quest Reward: [G:Level 16 Gems]",
+                "Logout to town → WP to [Y:The Crossroads]",
+                "[BUILD] Lv14-15: Check có enough gem support for Absolution"
+            ]
+        },
+        "1_2_4": {
+            "Name": "[Y:The Broken Bridge]",
+            "Tasks": [
+                "Từ Crossroads go NE",
+                "Follow road — [G:Waypoint] in middle",
+                "Quest [G:Deal with the Bandits]: [C:Kraityn]",
+                "Kill or help — KILL for Passive Point (recommended)",
+                "DON'T FORGET to pick up [G:Kraityn's Amulet]!",
+                "Logout to town → WP to [Y:The Crossroads]"
+            ]
+        },
+        "1_2_15": {
+            "Name": "[Y:The Fellshrine Ruins]",
+            "Tasks": [
+                "Từ Crossroads go SE",
+                "Large zone — FOLLOW THE ROAD, skip all side paths!",
+                "Path leads to small cemetery → find entrance to [Y:The Crypt]",
+                "SKIP all side doors — only follow main road!"
+            ]
+        },
+        "1_2_5_1": {
+            "Name": "[Y:The Crypt Level 1]",
+            "Tasks": [
+                "Take [G:Waypoint] at start of zone",
+                "Complete [G:Trial of Ascendancy]",
+                "Enter [Y:The Crypt Level 2]"
+            ]
+        },
+        "1_2_5_2": {
+            "Name": "[Y:The Crypt Level 2]",
+            "Tasks": [
+                "Long and winding zone",
+                "Find [C:Archbishop Geofri] and [G:Altar] behind boss",
+                "Pick up [G:Golden Hand] → back to town to turn in quest",
+                "Quest Reward: [G:Passive Skill Point]",
+                "Finished NORTH Act 2 → go to end of town into [Y:The Riverways]"
+            ]
+        },
+        "1_2_7": {
+            "Name": "[Y:The Riverways]",
+            "Tasks": [
+                "Similar to southern Crossroads — connection hub",
+                "Follow main road to [G:Waypoint]",
+                "Use movement skill across gaps!",
+                "Continue follow road → [Y:The Western Forest]",
+                "Then return for [Y:The Wetlands]"
+            ]
+        },
+        "1_2_9": {
+            "Name": "[Y:The Western Forest]",
+            "Tasks": [
+                "Follow road to [G:Waypoint] → end of road is [C:Captain Arteri]",
+                "Defeat Arteri, take [G:Thaumetic Emblem]",
+                "Socket Emblem into wall behind camp → quest [G:The Way Forward]",
+                "Quest Reward: [G:Passive Skill Point] (turn in at Act 1 Bestel!)",
+                "Go back, find torches by road → [C:Alira] camp",
+                "Kill Alira — pick up [G:Alira's Amulet]!",
+                "Find entrance to [Y:Weaver's Chambers] on opposite wall"
+            ]
+        },
+        "1_2_10": {
+            "Name": "[Y:Weaver's Chambers]",
+            "Tasks": [
+                "Linear zone → find entrance to [Y:Weaver's Nest]",
+                "[BUILD] Lv16: Absolution clear tốt — Holy Flame Totem hỗ trợ boss"
+            ]
+        },
+        "1_2_10a": {
+            "Name": "[Y:Weaver's Nest]",
+            "Tasks": [
+                "BOSS: [C:The Weaver]",
+                "Defeat Weaver, pick up [G:Maligaro's Spike]",
+                "Quest Reward: [G:Level 18 Gems]",
+                "Logout to town → WP [Y:Riverways] → head North → [Y:The Wetlands]"
+            ]
+        },
+        "1_2_12": {
+            "Name": "[Y:The Wetlands]",
+            "Tasks": [
+                "Head North to find [C:Oak] camp and [G:Waypoint]",
+                "Kill Oak — pick up [G:Oak's Amulet]!",
+                "Back to town, turn in 3 Amulets → get [G:The Apex]",
+                "WP to Wetlands → find entrance to [Y:The Vaal Ruins] on wall"
+            ]
+        },
+        "1_2_11": {
+            "Name": "[Y:The Vaal Ruins]",
+            "Tasks": [
+                "Large maze zone — find [G:Ancient Seal] (large purple orb)",
+                "Click seal → pass through → find entrance to [Y:The Northern Forest]"
+            ]
+        },
+        "1_2_8": {
+            "Name": "[Y:The Northern Forest]",
+            "Tasks": [
+                "[G:Waypoint] near entrance",
+                "(Optional) South: [Y:The Dread Thicket] — first Hideout unlock",
+                "Head North → [Y:The Caverns]"
+            ]
+        },
+        "1_2_14_2": {
+            "Name": "[Y:The Caverns]",
+            "Tasks": [
+                "Zone dài với nhiều ngõ cụt",
+                "Go around below to [G:Waypoint]",
+                "Need [G:The Apex] to open door! (from 3 bandits quest)",
+                "Head North → stairs up to [Y:Ancient Pyramid]"
+            ]
+        },
+        "1_2_14_3": {
+            "Name": "[Y:Ancient Pyramid]",
+            "Tasks": [
+                "Multiple floors — just go up stairs",
+                "Top floor: click [G:Altar] in middle → WAIT for boss spawn!",
+                "BOSS ACT 2: [C:Vaal Oversoul]",
+                "Boss has multiple phases — dodge telegraphed attacks",
+                "Boss music is great — turn it up! :D",
+                "After victory → northern exit → [Y:The City of Sarn] (Act 3)",
+                "[BUILD] Lv20-22: ĐẾN ENDURING BOND — node quan trọng nhất!",
+                "[BUILD] Bỏ Unholy Might (1 point) khi đã có Enduring Bond"
+            ]
+        },
+        "1_3_1": {
+            "Name": "[Y:The City of Sarn]",
+            "Tasks": [
+                "IMPORTANT: Defeat [C:Guard Captain]!",
+                "MUST talk to [C:Clarissa] — bricks if skipped!",
+                "Head North → [Y:The Sarn Encampment]"
+            ]
+        },
+        "1_3_town": {
+            "Name": "[Y:The Sarn Encampment]",
+            "Tasks": [
+                "Tip: Quit to Character Select → rejoin = teleport to town center",
+                "[C:Hargan]: sell weapons, armour",
+                "[C:Clarissa]: sell gems, potions, jewelry — ID items miễn phí",
+                "[C:Maramoa]: gambler + respec",
+                "SKIP Sarn Arena (PvP icon to the North)!",
+                "Skull icon = Aspirant's Plaza (return later for Lab)",
+                "Head Northeast → [Y:The Slums]",
+                "[BUILD] buy Physical to Lightning Support từ Clarissa/Siosa",
+                "[BUILD] Setup new: Absolution + Added Lightning + Added Fire + Phys to Lightning"
+            ]
+        },
+        "1_3_2": {
+            "Name": "[Y:The Slums]",
+            "Tasks": [
+                "Linear zone — see locked gate to [Y:Sewers] (return later)",
+                "Continue to [Y:The Crematorium]"
+            ]
+        },
+        "1_3_3_1": {
+            "Name": "[Y:The Crematorium]",
+            "Tasks": [
+                "Complete [G:Trial of Ascendancy]",
+                "Defeat [C:Piety] → quest [G:Lost in Love]",
+                "Pick up [G:Tolman's Bracelet]",
+                "Back to town → talk to [C:Clarissa] → receive [G:Sewer Keys]",
+                "Return to [Y:The Slums] → open [Y:The Sewers]"
+            ]
+        },
+        "1_3_10_1": {
+            "Name": "[Y:The Sewers]",
+            "Tasks": [
+                "Find 3 [G:Platinum Busts] — quest [G:Victario's Secrets]",
+                "Quest Reward: [G:Passive Skill Point]",
+                "Take [G:Waypoint] near [G:Undying Blockage] (return later!)",
+                "SKIP Cassia (league content) and Hideout icon!",
+                "Go to end of zone → [Y:The Marketplace]"
+            ]
+        },
+        "1_3_5": {
+            "Name": "[Y:The Marketplace]",
+            "Tasks": [
+                "Follow alley with large statue → [G:Waypoint]",
+                "SKIP [G:Ornate Chest] (Swig of Hope quest = waste of time)!",
+                "Near WP: enter [Y:The Catacombs] for Trial",
+                "Sau Catacombs: go North → bám wall West → [Y:The Battlefront]"
+            ]
+        },
+        "1_3_6": {
+            "Name": "[Y:The Catacombs]",
+            "Tasks": [
+                "Complete [G:Trial of Ascendancy]",
+                "take [G:Recipe Altar]",
+                "WP to [Y:The Marketplace]"
+            ]
+        },
+        "1_3_7": {
+            "Name": "[Y:The Battlefront]",
+            "Tasks": [
+                "Hub zone — will return multiple times!",
+                "Head North → take [G:Waypoint] in middle",
+                "Southwest of WP: find [G:Blackguard Chest] → pick up [G:Ribbon Spool]",
+                "Go West → North → [Y:The Docks]"
+            ]
+        },
+        "1_3_9": {
+            "Name": "[Y:The Docks]",
+            "Tasks": [
+                "SKIP [C:Fairgraves] (Swig of Hope = waste of time)!",
+                "Find dock with [G:Supply Container] → pick up [G:Thaumetic Sulphite]",
+                "Return to [Y:The Battlefront] → head Northeast → [Y:Solaris Temple]"
+            ]
+        },
+        "1_3_8_1": {
+            "Name": "[Y:Solaris Temple Level 1]",
+            "Tasks": [
+                "Linear zone — [G:Waypoint] in middle",
+                "Skip optional bosses",
+                "Enter [Y:Solaris Temple Level 2]"
+            ]
+        },
+        "1_3_8_2": {
+            "Name": "[Y:Solaris Temple Level 2]",
+            "Tasks": [
+                "Follow red carpet → [C:Lady Dialla] at end",
+                "Turn in [G:Ribbon Spool] + [G:Thaumetic Sulphite] → receive [G:Infernal Talc]",
+                "Quest Reward: [G:Rare Amulet]",
+                "Take [G:Recipe Altar] in [Y:The Eternal Laboratory] (last room)",
+                "WP to [Y:Sewers] → use [G:Infernal Talc] to burn [G:Undying Blockage]"
+            ]
+        },
+        "1_3_13": {
+            "Name": "[Y:The Ebony Barracks]",
+            "Tasks": [
+                "Take [G:Waypoint] just to the North",
+                "Head North → defeat [C:General Gravicius]",
+                "Quest Reward: [G:Level 28 Gems]",
+                "Hub zone: NORTHWEST → [Y:Lunaris Temple] (go first)",
+                "After Lunaris: return, EAST → [Y:Imperial Gardens]"
+            ]
+        },
+        "1_3_14_1": {
+            "Name": "[Y:Lunaris Temple Level 1]",
+            "Tasks": [
+                "Linear zone — follow red carpet",
+                "Take [G:Waypoint] → stairs down to Level 2"
+            ]
+        },
+        "1_3_14_2": {
+            "Name": "[Y:Lunaris Temple Level 2]",
+            "Tasks": [
+                "Longest and hardest zone in Act 3!",
+                "Find long bridge + stairs → go up multiple times",
+                "CARTS junction: go the path with 1 CART (not 2 carts!)",
+                "Pass cage area: blink across gaps",
+                "Find golden gate → special room → stairs → Portal boss",
+                "Defeat [C:Piety] → receive [G:Tower Key]",
+                "Quest Reward: [G:Passive Skill Point]",
+                "Back to town → get book from [C:Grigor]",
+                "WP back to [Y:Ebony Barracks] → go NW → [Y:Imperial Gardens]"
+            ]
+        },
+        "1_3_15": {
+            "Name": "[Y:Imperial Gardens]",
+            "Tasks": [
+                "Large hub zone — 3 objectives!",
+                "Follow stone path → [G:Waypoint]",
+                "1) NORTHWEST → [Y:The Library] (gems!)",
+                "2) NORTHEAST → [G:Trial of Ascendancy] (last trial!)",
+                "3) After Ascend → EAST → [Y:Sceptre of God]"
+            ]
+        },
+        "1_3_17_1": {
+            "Name": "[Y:The Library]",
+            "Tasks": [
+                "Find NPC [C:Siosa] and [G:Waypoint]",
+                "Talk to Siosa → receive quest",
+                "Find room with [G:Loose Candle] → open [Y:The Archives]"
+            ]
+        },
+        "1_3_17_2": {
+            "Name": "[Y:The Archives]",
+            "Tasks": [
+                "Find 4 [G:Golden Pages] from 4 Book Stands (marked with yellow !)",
+                "Back to [C:Siosa] → turn in [G:A Fixture of Fate]",
+                "MỞ KHÓA GEM! Quest Reward: [G:Level 31 Gems]",
+                "WP to [Y:Imperial Gardens] → NE for Trial"
+            ]
+        },
+        "1_3_15a": {
+            "Name": "[Y:Aspirant's Plaza]",
+            "Tasks": [
+                "Enter from Act 3 town (Skull icon) if all 6 Trials done",
+                "Normal Labyrinth — Ascend for the first time!",
+                "Tip: When lost → go UP and RIGHT",
+                "Save Quicksilver + Frostblink for traps",
+                "Death = must restart Lab!",
+                "[BUILD] Run Normal Labyrinth — TAKE Radiant Crusade!",
+                "[BUILD] Sentinel of Radiance PERMANENT in 3.28",
+                "[BUILD] Passive: Ascendancy 1+2 = Radiant Crusade"
+            ]
+        },
+        "1_3_18_1": {
+            "Name": "[Y:Sceptre of God]",
+            "Tasks": [
+                "WP to [Y:Imperial Gardens] → go EAST",
+                "3 floors — find stairs to top",
+                "Enter [Y:Upper Sceptre of God]"
+            ]
+        },
+        "1_3_18_2": {
+            "Name": "[Y:Upper Sceptre of God]",
+            "Tasks": [
+                "3 more floors → wall door leading to Tower Rooftop",
+                "ACT 3 BOSS: [C:Dominus, High Templar]",
+                "When he yells 'A Touch of God' + lightning fist → MOVE BACK!",
+                "Phase 2: blood pool SE → STAND CLOSE to boss to avoid corrupted blood",
+                "After victory → talk to [C:Lady Dialla] → right exit → [Y:The Aqueduct]"
+            ]
+        },
+        "1_4_1": {
+            "Name": "[Y:The Aqueduct]",
+            "Tasks": [
+                "2 parallel bridges — switch sides when blocked",
+                "Long zone — DON'T DIE (respawn at start)!",
+                "End of left bridge → [Y:Highgate]",
+                "[BUILD] Farm Aqueduct nếu cần level trước Lab"
+            ]
+        },
+        "1_4_town": {
+            "Name": "[Y:Highgate]",
+            "Tasks": [
+                "[C:Kira]: sell weapons, armour",
+                "[C:Petarus & Vanja]: potions, jewelry — ID items miễn phí",
+                "[C:Tasuni]: gambler + respec",
+                "Southwest of town → [Y:The Dried Lake]",
+                "[BUILD] XÓA mastery Unholy Might khi có Physical to Lightning!"
+            ]
+        },
+        "1_4_2": {
+            "Name": "[Y:The Dried Lake]",
+            "Tasks": [
+                "Go South + West → find [C:Voll] camp",
+                "Defeat [C:Voll, Emperor of Purity]",
+                "Pick up [G:Deshret's Banner]",
+                "Quest Reward: [G:Level 34 Gems]",
+                "Back to town → click [G:Deshret's Seal] north of town → open [Y:The Mines]"
+            ]
+        },
+        "1_4_3_1": {
+            "Name": "[Y:The Mines Level 1]",
+            "Tasks": [
+                "Linear zone — follow main road",
+                "Take [G:Recipe Altar] along the way",
+                "SKIP Sulphite Mines + Niko (league content)!",
+                "Enter [Y:The Mines Level 2]"
+            ]
+        },
+        "1_4_3_2": {
+            "Name": "[Y:The Mines Level 2]",
+            "Tasks": [
+                "Follow cart track — find yellow ! = [G:Deshret's Spirit]",
+                "Mini-boss [C:Hammerstorm] guards Spirit",
+                "Click Spirit → quest [G:An Indomitable Spirit]",
+                "Quest Reward: [G:Passive Skill Point]",
+                "Continue → [Y:Crystal Veins]"
+            ]
+        },
+        "1_4_3_3": {
+            "Name": "[Y:Crystal Veins]",
+            "Tasks": [
+                "Long zone — follow road to [G:Waypoint] + [C:Lady Dialla]",
+                "SKIP hideout unlock and random bosses!",
+                "Talk to Dialla → 2 parallel quests:",
+                "Enter [Y:Kaom's Dream] (left) → get Eye of Fury",
+                "Enter [Y:Daresso's Dream] (right) → get Eye of Desire"
+            ]
+        },
+        "1_4_4_1": {
+            "Name": "[Y:Kaom's Dream]",
+            "Tasks": [
+                "Go all the way RIGHT → up stairs → all the way LEFT",
+                "Head North → [Y:Kaom's Stronghold]"
+            ]
+        },
+        "1_4_4_3": {
+            "Name": "[Y:Kaom's Stronghold]",
+            "Tasks": [
+                "[G:Waypoint] + [G:Crafting Altar] at start of zone",
+                "Hug LEFT wall → head North → Caldera of the King",
+                "BOSS: [C:King Kaom] — telegraphed attacks, easy to dodge",
+                "Pick up [G:The Eye of Fury]",
+                "WP to [Y:Crystal Veins] → enter [Y:Daresso's Dream]"
+            ]
+        },
+        "1_4_5_1": {
+            "Name": "[Y:Daresso's Dream]",
+            "Tasks": [
+                "Narrow alley — follow main road",
+                "Closed gate → kill waves to open",
+                "Boss [C:Barkhul] at end of zone",
+                "Pass through → [Y:The Grand Arena]"
+            ]
+        },
+        "1_4_5_2": {
+            "Name": "[Y:The Grand Arena]",
+            "Tasks": [
+                "[G:Waypoint] + [G:Crafting Altar] at start",
+                "Passageways + Arenas — exit always to the North",
+                "Finally: The Ring of Blades",
+                "BOSS: [C:Daresso, King of Swords] — 4 phases",
+                "Pick up [G:The Eye of Desire]",
+                "WP to [Y:Crystal Veins] → turn in 2 Eyes to Dialla → open [Y:Belly of the Beast]"
+            ]
+        },
+        "1_4_6_1": {
+            "Name": "[Y:Belly of the Beast Level 1]",
+            "Tasks": [
+                "PREPARE! Long chain until Act 4 final boss starting here",
+                "Upgrade gear before starting!",
+                "Linear zone — head North-Center → wall path → Level 2"
+            ]
+        },
+        "1_4_6_2": {
+            "Name": "[Y:Belly of the Beast Level 2]",
+            "Tasks": [
+                "Head North + LEFT → [Y:Bowels of the Beast]",
+                "BOSS: [C:Piety, the Abomination]",
+                "Tip: DODGE rotating laser! Walk/blink around boss",
+                "Talk to [C:Piety], take [G:Recipe Altar]",
+                "Go up → [Y:The Harvest]"
+            ]
+        },
+        "1_4_6_3": {
+            "Name": "[Y:The Harvest]",
+            "Tasks": [
+                "Take [G:Waypoint] → talk to [C:Piety]",
+                "Go around zone to defeat 3 bosses:",
+                "1) [C:Shavronne] → [G:Malachai's Entrails]",
+                "2) [C:Doedre] → [G:Malachai's Lungs]",
+                "3) [C:Maligaro] → [G:Malachai's Heart]",
+                "Turn in 3 items to Piety → open [Y:The Black Core]"
+            ]
+        },
+        "1_4_6_4": {
+            "Name": "[Y:The Black Core]",
+            "Tasks": [
+                "ACT 4 FINAL BOSS: [C:Malachai, The Nightmare]",
+                "See sweep ray → run behind boss!",
+                "Avoid ground patches — high damage!",
+                "Phase 2: [Y:The Black Heart] — destroy Hearts in 4 corners",
+                "Boss phases every 25% HP → kill hearts → continue",
+                "After victory → red portal to [Y:Highgate]",
+                "Receive gem reward from [C:Dialla]",
+                "Wall exit top-right → [Y:The Ascent] → Act 5"
+            ]
+        },
+        "1_4_7": {
+            "Name": "[Y:The Ascent]",
+            "Tasks": [
+                "Activate [G:The Resonator]",
+                "Use [G:Oriath Portal] → Act 5"
+            ]
+        },
+        "1_5_1": {
+            "Name": "[Y:The Slave Pens]",
+            "Tasks": [
+                "Large zone — hug FAR RIGHT, go down to bottom right corner",
+                "Then head SW → find [C:Overseer Krow]",
+                "Defeat Krow → climb ladder → [Y:Overseer's Tower]"
+            ]
+        },
+        "1_5_town": {
+            "Name": "[Y:Overseer's Tower]",
+            "Tasks": [
+                "Smallest town in the game! Only 3 NPCs",
+                "[C:Utula]: weapons, armour",
+                "[C:Lani]: potions, jewelry — Free ID",
+                "[C:Vilenta]: gambler + respec",
+                "Head NW → [Y:The Control Blocks]"
+            ]
+        },
+        "1_5_2": {
+            "Name": "[Y:The Control Blocks]",
+            "Tasks": [
+                "Tip: use blink through fence gaps to save time!",
+                "Mid-zone: take [G:Experimental Supplies] → [G:Miasmeter]",
+                "Quest Reward: [G:Passive Skill Point]",
+                "Defeat [C:Justicar Casticus] → pick up [G:Eyes of Zeal]",
+                "Go up + left → [Y:Oriath Square]"
+            ]
+        },
+        "1_5_3": {
+            "Name": "[Y:Oriath Square]",
+            "Tasks": [
+                "Hub zone — will return multiple times!",
+                "[G:Waypoint] at start",
+                "First time: follow road through square → East bridge",
+                "Find entrance to [Y:The Templar Courts]"
+            ]
+        },
+        "1_5_4": {
+            "Name": "[Y:The Templar Courts]",
+            "Tasks": [
+                "Very large zone — take [G:Waypoint]",
+                "EAST → hug wall → SOUTH → corner → WEST → NORTH",
+                "Enter [Y:Chamber of Innocence]"
+            ]
+        },
+        "1_5_5": {
+            "Name": "[Y:Chamber of Innocence]",
+            "Tasks": [
+                "Go counter-clockwise around zone",
+                "Enter [Y:Sanctum of Innocence] → [C:Innocence] boss",
+                "'I am the end' = AOE explosion → RUN AWAY!",
+                "'I' = tracking beam → circle around boss to dodge",
+                "Talk to [C:Sin] → RIGHT exit → back to zone",
+                "Talk to [C:Bannon] → enter [Y:The Torched Courts]",
+                "[BUILD] Farm Level 40-42 nếu cần",
+                "[BUILD] Absolution + Phys to Lightning clear rất tốt ở đây"
+            ]
+        },
+        "1_5_4b": {
+            "Name": "[Y:Torched Courts]",
+            "Tasks": [
+                "Run backwards (counter-clockwise from 6 o'clock)",
+                "Enter [Y:Ruined Square]"
+            ]
+        },
+        "1_5_3b": {
+            "Name": "[Y:Ruined Square]",
+            "Tasks": [
+                "Burned hub zone — 4 objectives!",
+                "1) North → [G:Waypoint] + entrance to [Y:The Ossuary]",
+                "2) Return → find [Y:The Reliquary] (opposite WP)",
+                "3) Kill [C:Utula] in side area (near mid-zone)",
+                "4) [Y:Cathedral Rooftop] (opposite corner, same side as WP)"
+            ]
+        },
+        "1_5_6": {
+            "Name": "[Y:The Ossuary]",
+            "Tasks": [
+                "go vòng tròn — Find [G:Sign of Purity] từ Tomb",
+                "Take [G:Crafting Altar]",
+                "Logout to town"
+            ]
+        },
+        "1_5_7": {
+            "Name": "[Y:The Reliquary]",
+            "Tasks": [
+                "Find 3 quest items: [G:Hinekora's Hair], [G:Tukohama's Tooth], [G:Valako's Jaw]",
+                "At corners of the zone",
+                "Quest Reward: [G:Passive Skill Point]",
+                "Back to town, turn in quests → WP [Y:Ruined Square] → [Y:Cathedral Rooftop]"
+            ]
+        },
+        "1_5_8": {
+            "Name": "[Y:Cathedral Rooftop]",
+            "Tasks": [
+                "Large but linear zone — turn left → head North",
+                "To NW corner → [Y:Cathedral Apex]",
+                "ACT 5 BOSS: [C:Kitava, the Insatiable]",
+                "Death = spawn right outside → enter and continue!",
+                "After boss → talk to [C:Sin] → go down → talk to [C:Lilly Roth]",
+                "Choose 'Sail to Wraeclast' → Act 6",
+                "[BUILD] After Kitava Act 5: -30% all resist! Kiểm tra resist ngay",
+                "[BUILD] Ưu tiên gear có Life + Resistance"
+            ]
+        },
+        "2_6_town": {
+            "Name": "[Y:Lioneye's Watch] (Act 6)",
+            "Tasks": [
+                "Similar to Act 1 town! additional [C:Faustus] for Currency Exchange",
+                "Sau quest đầu: [C:Lilly Roth] sell ALL gems!",
+                "go North → [Y:Twilight Strand] (quest đầu tiên)",
+                "[BUILD] Lilly Roth sell ALL gem — buy gem missing!",
+                "[BUILD] buy: Summon Stone Golem + Feeding Frenzy (use from Lv45)"
+            ]
+        },
+        "2_6_1": {
+            "Name": "[Y:Twilight Strand] (Act 6)",
+            "Tasks": [
+                "kill HẾT quái trong zone! (đếm ngược khi còn ≤5)",
+                "Quest [G:Fallen from Grace] → mở khóa ALL gems!",
+                "Quest Reward: [G:Passive Respec Points + All Gems]",
+                "back to town → talk to [C:Lilly Roth] → buy gems → North → [Y:The Coast]"
+            ]
+        },
+        "2_6_2": {
+            "Name": "[Y:The Coast] (Act 6)",
+            "Tasks": [
+                "Layout Similar to Act 1 — go NE đến [G:Waypoint]",
+                "SKIP Tidal Island lần này!",
+                "enter [Y:The Mud Flats]"
+            ]
+        },
+        "2_6_4": {
+            "Name": "[Y:The Mud Flats] (Act 6)",
+            "Tasks": [
+                "go East → Find [C:The Dishonoured Queen] (nhà hỏng bám wall North)",
+                "Defeat Queen, pick up [G:Eye of Conquest]",
+                "go NW → [Y:Karui Fortress]"
+            ]
+        },
+        "2_6_5": {
+            "Name": "[Y:Karui Fortress]",
+            "Tasks": [
+                "Zone hình tròn bao quanh Fortress — Find cửa enter bên trong",
+                "Boss [C:Tukohama, Karui God of War]",
+                "Né slam telegraphed — 50% HP spawn 3 totems → kill totems",
+                "Sau phase có tia xoay quanh — NÉ tia!",
+                "Quest Reward: [G:Passive Skill Point]",
+                "talk to [C:Sin] → chọn Pantheon Minor → go NE → [Y:The Ridge]"
+            ]
+        },
+        "2_6_6": {
+            "Name": "[Y:The Ridge]",
+            "Tasks": [
+                "Linear zone Similar to Act 1",
+                "enter [Y:The Lower Prison]"
+            ]
+        },
+        "2_6_7_1": {
+            "Name": "[Y:Lower Prison] (Act 6)",
+            "Tasks": [
+                "take [G:Waypoint] at start",
+                "[G:Trial of Ascendancy] — thường phía South từ WP",
+                "enter [Y:Shavronne's Tower] (góc đối diện Trial)"
+            ]
+        },
+        "2_6_7_2": {
+            "Name": "[Y:Shavronne's Tower]",
+            "Tasks": [
+                "4 tầng tower — stairs near lối enter",
+                "Tầng 2+3: semi-circle xen kẽ chiều",
+                "Tầng 4: cầu thang giữa zone → Prison Rooftop",
+                "Boss [C:Brutus & Shavronne] — né 1-shot telegraphed",
+                "talk to [C:Sin] → trái → Warden's Chambers → [Y:Prisoner's Gate]"
+            ]
+        },
+        "2_6_8": {
+            "Name": "[Y:Prisoner's Gate] (Act 6)",
+            "Tasks": [
+                "take [G:Waypoint] đầu zone — 3 Goal:",
+                "1) East → talk to [C:Nessa]",
+                "2) Đối diện (North) → [Y:Valley of the Fire Drinker]",
+                "3) Quay lại → đối diện Valley → [Y:The Western Forest]"
+            ]
+        },
+        "2_6_8a": {
+            "Name": "[Y:Valley of the Fire Drinker]",
+            "Tasks": [
+                "2-zone boss arena — [C:Abberath]",
+                "Né telegraphed 1-shots + ground effects",
+                "Phase giữa = chuyển zone → go qua mid-zone → final arena",
+                "Quest Reward: [G:Passive Skill Point]",
+                "talk to [C:Sin] → Pantheon → về Prisoner's Gate → [Y:Western Forest]"
+            ]
+        },
+        "2_6_9": {
+            "Name": "[Y:The Western Forest] (Act 6)",
+            "Tasks": [
+                "Linear zone — theo đường",
+                "take [G:Crafting Altar] ở camp Alira cũ (Find đuốc bên đường)",
+                "enter [Y:The Riverways]"
+            ]
+        },
+        "2_6_10": {
+            "Name": "[Y:The Riverways] (Act 6)",
+            "Tasks": [
+                "Theo đường, take [G:Waypoint]",
+                "Find 2 cột có thanh sắt → đường phụ → [Y:The Wetlands]",
+                "Sau Wetlands: về WP → go North + East → [Y:The Southern Forest]"
+            ]
+        },
+        "2_6_11": {
+            "Name": "[Y:The Wetlands] (Act 6)",
+            "Tasks": [
+                "go North bám wall núi → [Y:Spawning Ground]",
+                "Boss [C:Ryslatha] — kill 3 trứng (Trái, Giữa, Phải)",
+                "Boss respawn ở trên giữa — additional CHAOS damage!",
+                "Quest Reward: [G:Passive Skill Point]",
+                "Về [Y:The Riverways] → [Y:The Southern Forest]"
+            ]
+        },
+        "2_6_12": {
+            "Name": "[Y:The Southern Forest] (Act 6)",
+            "Tasks": [
+                "Zone lớn khó go — Find cầu gỗ hẹp nối các đảo",
+                "Đôi khi phải quay lại đường song song",
+                "Cuối cùng đến góc East → [G:Waypoint] → [Y:Cavern of Anger]"
+            ]
+        },
+        "2_6_13": {
+            "Name": "[Y:Cavern of Anger] (Act 6)",
+            "Tasks": [
+                "Đường giữa → pick up [G:The Black Flag]",
+                "go qua Passage → Find [Y:The Beacon]"
+            ]
+        },
+        "2_6_14": {
+            "Name": "[Y:The Beacon]",
+            "Tasks": [
+                "Zone rất lớn — Find bờ biển, bám theo nó!",
+                "Qua cầu đá hẹp → [G:Crafting Altar]",
+                "Find 2 vòng tròn + cột → ĐỨNG TRONG vòng for cột di chuyển",
+                "Thắp [G:Beacon] → ném [G:The Black Flag]",
+                "go xuống thung lũng → talk to [C:Weylam Roth] → sail away"
+            ]
+        },
+        "2_6_15": {
+            "Name": "[Y:Brine King's Reef]",
+            "Tasks": [
+                "Zone walkthrough lớn — bám border Find lối enter Brine King's Throne",
+                "BOSS ACT 6: [C:Tsoagoth, The Brine King]",
+                "ĐỨNG SAU boss + ĐỪNG đứng quá near!",
+                "Phases: wall nước dâng lên — né whirlpool trắng trên đất!",
+                "Chết = enter lại tiếp tục!",
+                "talk to [C:Sin] → Soul of Brine King (freeze immunity!)",
+                "talk to [C:Weylam Roth] → [Y:Bridge Encampment] (Act 7)"
+            ]
+        },
+        "2_7_town": {
+            "Name": "[Y:Bridge Encampment]",
+            "Tasks": [
+                "Town ở đầu Act 7!",
+                "[C:Helena]: weapons, armour",
+                "[C:Yeena]: potions, jewelry — ID miễn phí",
+                "[C:Faustus]: gambler + respec",
+                "go North → [Y:The Broken Bridge]"
+            ]
+        },
+        "2_7_1": {
+            "Name": "[Y:Broken Bridge] (Act 7)",
+            "Tasks": [
+                "Linear zone — theo đường",
+                "((Optional)) Find [G:Dirty Lockbox] → [G:Silver Locket] for flask reward",
+                "Enter [Y:The Crossroads]"
+            ]
+        },
+        "2_7_2": {
+            "Name": "[Y:The Crossroads] (Act 7)",
+            "Tasks": [
+                "take [G:Waypoint] — Similar to Act 2!",
+                "1) East + South → [Y:Fellshrine Ruins] → [Y:The Crypt]",
+                "2) North + West → [Y:Chamber of Sins]"
+            ]
+        },
+        "2_7_3": {
+            "Name": "[Y:Fellshrine Ruins] (Act 7)",
+            "Tasks": [
+                "Similar to Act 2 — go THEO ĐƯỜNG, SKIP distractions!",
+                "Qua cổng vòm → nghĩa trang → [Y:The Crypt]"
+            ]
+        },
+        "2_7_4": {
+            "Name": "[Y:The Crypt] (Act 7)",
+            "Tasks": [
+                "take [G:Waypoint] at start",
+                "Hoàn thành [G:Trial of Ascendancy] + take [G:Crafting Altar]",
+                "Find [G:Sarcophagus] trên minimap → enter phòng bí mật",
+                "Find [G:Container of Sins] → pick up [G:Maligaro's Map]",
+                "WP back to [Y:Crossroads] → North + West → [Y:Chamber of Sins]"
+            ]
+        },
+        "2_7_5_1": {
+            "Name": "[Y:Chamber of Sins Level 1] (Act 7)",
+            "Tasks": [
+                "go hướng giữa zone → Find nhiều icons trên minimap",
+                "talk to chuyện [C:Silk] → kích hoạt [G:Map Device] với [G:Maligaro's Map]",
+                "enter portals → [Y:Maligaro's Sanctum]"
+            ]
+        },
+        "2_7_5_map": {
+            "Name": "[Y:Maligaro's Sanctum]",
+            "Tasks": [
+                "Hoạt động như Map endgame! 6 portals — chết = mất portal",
+                "go TRÁI → cầu hẹp → North bám wall → cầu hẹp tiếp",
+                "North → lối enter Maligaro's Workshop",
+                "Defeat [C:Maligaro] + [C:Black Death] + [C:Fidelitas]",
+                "pick up [G:Black Venom] → về [C:Silk] → receive [G:Obsidian Key]",
+                "Mở cầu thang xuống Level 2"
+            ]
+        },
+        "2_7_5_2": {
+            "Name": "[Y:Chamber of Sins Level 2] (Act 7)",
+            "Tasks": [
+                "Hoàn thành [G:Trial of Ascendancy] (trial cuối for Lab tiếp!)",
+                "Find hành lang dài → ! vàng = [G:Secret Passage]",
+                "Mở Secret Passage → [Y:The Den]",
+                "Có thể chạy Aspirant's Plaza ngay từ WP interface!"
+            ]
+        },
+        "2_7_6": {
+            "Name": "[Y:The Den] (Act 7)",
+            "Tasks": [
+                "Linear zone — bám TRÁI",
+                "enter [Y:Ashen Fields]"
+            ]
+        },
+        "2_7_7": {
+            "Name": "[Y:Ashen Fields]",
+            "Tasks": [
+                "take [G:Waypoint] → go SW theo đường",
+                "Defeat [C:Greust, Lord of the Forest] ở Fortress Encampment",
+                "Quest Reward: [G:Passive Skill Point]",
+                "talk to [C:Sin] → Pantheon → go North → [Y:Northern Forest]",
+                "[BUILD] Chạy Cruel Labyrinth — take Unwavering Crusade!",
+                "[BUILD] Ascendancy 3+4: Elemental Relics buff damage for Sentinels",
+                "[BUILD] additional Stone Golem + Feeding Frenzy enter setup"
+            ]
+        },
+        "2_7_8": {
+            "Name": "[Y:Northern Forest] (Act 7)",
+            "Tasks": [
+                "go NW → Find [Y:Dread Thicket] (quest ở đây!)",
+                "SKIP Azmeri Shrine (sidequest amulet = skip)",
+                "Sau Dread Thicket → tiếp tục → [Y:The Causeway]"
+            ]
+        },
+        "2_7_9": {
+            "Name": "[Y:Dread Thicket] (Act 7)",
+            "Tasks": [
+                "Find 7 [G:Firefly] items khắp zone",
+                "Find [G:Crafting Altar]",
+                "enter [Y:Den of Despair] → boss [C:Gruthkul, Mother of Despair]",
+                "Quest Reward: [G:Passive Skill Point]",
+                "Thu thập enough Fireflies → về [Y:Northern Forest] → [Y:Causeway]"
+            ]
+        },
+        "2_7_10": {
+            "Name": "[Y:The Causeway]",
+            "Tasks": [
+                "go North + hơi West → [G:Waypoint] + [G:Crafting Altar]",
+                "near exit: Find [G:Kishara's Lockbox] → pick up [G:Kishara's Star]",
+                "Quest Reward: [G:Passive Skill Point]",
+                "enter [Y:Vaal City]"
+            ]
+        },
+        "2_7_11": {
+            "Name": "[Y:Vaal City]",
+            "Tasks": [
+                "Zone lớn — go North + West phía trên giữa",
+                "Find [C:Yeena] + [G:Waypoint]",
+                "talk to [C:Yeena] → mở cửa [Y:Temple of Decay] (cần 7 Fireflies!)"
+            ]
+        },
+        "2_7_12_1": {
+            "Name": "[Y:Temple of Decay Level 1]",
+            "Tasks": [
+                "Nhiều tầng — mỗi tầng Find góc ĐỐI DIỆN để go xuống",
+                "enter [Y:Temple of Decay Level 2]"
+            ]
+        },
+        "2_7_12_2": {
+            "Name": "[Y:Temple of Decay Level 2]",
+            "Tasks": [
+                "Tiếp tục quy tắc góc đối diện",
+                "Tầng 2 xuống: Find [G:Crafting Altar] ở giữa zone",
+                "Tầng cuối: wall chuyển TÍM → [Y:Arakaali's Web]",
+                "BOSS ACT 7: [C:Arakaali, Spinner of Shadows]",
+                "Phase đầu: tia tím matrix → NÉ! Phases ở các góc",
+                "50% HP: ăn Silk → hồi máu → phase new",
+                "Phase cuối: đĩa tím bay = RẤT NGUY HIỂM!",
+                "talk to [C:Sin] + [C:Yeena] → go North → Act 8"
+            ]
+        },
+        "2_8_1": {
+            "Name": "[Y:The Sarn Ramparts]",
+            "Tasks": [
+                "go East dọc wall → lên cầu thang lên đỉnh wall",
+                "Quay ngược West trên wall → xuống cầu thang",
+                "enter [Y:The Sarn Encampment]"
+            ]
+        },
+        "2_8_town": {
+            "Name": "[Y:The Sarn Encampment] (Act 8)",
+            "Tasks": [
+                "[C:Hargan]: weapons, armour",
+                "[C:Clarissa]: potions, jewelry — ID miễn phí",
+                "[C:Faustus]: gambler + respec",
+                "go West (qua Clarissa) → [Y:The Toxic Conduits]"
+            ]
+        },
+        "2_8_2_1": {
+            "Name": "[Y:The Toxic Conduits]",
+            "Tasks": [
+                "Linear zone — chọn 1 hướng theo đến cửa",
+                "CẨN THẬN Chaos Damage ở đây!",
+                "enter [Y:Doedre's Cesspool]"
+            ]
+        },
+        "2_8_2_2": {
+            "Name": "[Y:Doedre's Cesspool]",
+            "Tasks": [
+                "Theo conduits → Find cổng mở → xuống [Y:The Cauldron]",
+                "Click [G:Valve] để spawn [C:Doedre]",
+                "Defeat [C:Doedre] → talk to [C:Sin]",
+                "go North qua Sewer Outlet → ngã tư:",
+                "NE → [Y:The Quay] (go trước)",
+                "SW → [Y:Grand Promenade] (go sau)"
+            ]
+        },
+        "2_8_8": {
+            "Name": "[Y:The Quay]",
+            "Tasks": [
+                "Zone khó go nhất campaign! Luyện travel skill!",
+                "1) Find [G:Sealed Casket] → pick up [G:Ankh of Eternity] TRƯỚC!",
+                "Casket thường qua cầu hẹp ngắn",
+                "2) Find [Y:Resurrection Site] (lối enter zone) → talk to [C:Clarissa] → kill army",
+                "Quest Reward: [G:Passive Skill Point]",
+                "3) Find [Y:The Grain Gate] (đối diện Resurrection Site)"
+            ]
+        },
+        "2_8_9": {
+            "Name": "[Y:The Grain Gate]",
+            "Tasks": [
+                "take [G:Waypoint] at start",
+                "Xen kẽ phòng trong + sân ngoài",
+                "Sân ngoài thứ 2: go NW → [C:Gemling Legionnaires] → Defeat",
+                "Quest Reward: [G:Passive Skill Point]",
+                "Tiếp tục xen kẽ → [Y:Imperial Fields]"
+            ]
+        },
+        "2_8_10": {
+            "Name": "[Y:The Imperial Fields]",
+            "Tasks": [
+                "Linear zone + [G:Waypoint] giữa",
+                "Theo đường → Find sân tượng → [Y:Solaris Temple Level 1]"
+            ]
+        },
+        "2_8_12_1": {
+            "Name": "[Y:Solaris Temple Level 1] (Act 8)",
+            "Tasks": [
+                "Theo carpet path — SKIP Solaris Concourse!",
+                "take [G:Waypoint] giữa → xuống tầng 2"
+            ]
+        },
+        "2_8_12_2": {
+            "Name": "[Y:Solaris Temple Level 2] (Act 8)",
+            "Tasks": [
+                "Cuối zone: portal → boss arena [C:Dawn]",
+                "Dawn có 4 moves telegraphed rõ ràng — dễ né",
+                "Defeat Dawn → pick up [G:Sun Orb]",
+                "WP back to Doedre's Cesspool → go SW → [Y:Grand Promenade]"
+            ]
+        },
+        "2_8_3": {
+            "Name": "[Y:The Grand Promenade]",
+            "Tasks": [
+                "Vòng semi-circle counter-clockwise",
+                "Phòng lớn đầu → chỉ 1 hướng ra → theo đó",
+                "Cuối → [Y:The Bath House]"
+            ]
+        },
+        "2_8_5": {
+            "Name": "[Y:The Bath House]",
+            "Tasks": [
+                "Hub zone! 4 Goal:",
+                "1) ((Optional)) North → kill [C:Hector Titucius] → [G:Wings of Vastiri] → Jewel",
+                "2) North → [G:Trial of Ascendancy] (kéo ALL levers!)",
+                "3) Đối diện trial → [Y:The High Gardens] → boss Yugul",
+                "4) Sau Yugul: → [Y:Lunaris Concourse]"
+            ]
+        },
+        "2_8_4": {
+            "Name": "[Y:The High Gardens]",
+            "Tasks": [
+                "Semi-circle lớn — quái RẤT MẠNH! Chết = chạy lại!",
+                "go nhanh + an toàn → cuối zone = [Y:Pools of Terror]",
+                "Boss [C:Yugul, Reflection of Terror]",
+                "Attack mạnh + cold pools/blobs — 2 lần phase spawn reflections",
+                "Quest Reward: [G:Passive Skill Point]",
+                "Về [Y:Bath House] → [Y:Lunaris Concourse]"
+            ]
+        },
+        "2_8_6": {
+            "Name": "[Y:Lunaris Concourse]",
+            "Tasks": [
+                "take [G:Waypoint] giữa (slightly NORTH)",
+                "go North + East → [Y:Lunaris Temple Level 1]",
+                "Sau Temple: về WP → East → [Y:Harbour Bridge]"
+            ]
+        },
+        "2_8_7_1_": {
+            "Name": "[Y:Lunaris Temple Level 1] (Act 8)",
+            "Tasks": [
+                "Theo carpet xanh — qua phòng cathedral → go North+East",
+                "take [G:Waypoint] → xuống Level 2"
+            ]
+        },
+        "2_8_7_2": {
+            "Name": "[Y:Lunaris Temple Level 2] (Act 8)",
+            "Tasks": [
+                "Zone cực khó go! Nhiều dead ends + cages!",
+                "Chết = chạy lại từ đầu! Cẩn thận!",
+                "Cuối: portal → boss [C:Dusk] — fight dễ như Dawn",
+                "pick up [G:Moon Orb] → WP back to [Y:Lunaris Concourse]"
+            ]
+        },
+        "2_8_13": {
+            "Name": "[Y:The Harbour Bridge]",
+            "Tasks": [
+                "go thẳng giữa → [Y:Sky Shrine]",
+                "Click [G:Statue of the Sisters] (cần Sun Orb + Moon Orb)",
+                "BOSS ACT 8: [C:Solaris & Lunaris]",
+                "Xen kẽ targetable/not — chú ý!",
+                "talk to [C:Sin] → Lunaris Pantheon (rất tốt for cuối campaign!)",
+                "Exit phía sau arena → [Y:The Blood Aqueduct] (Act 9)",
+                "[BUILD] Lv55+: Chuẩn bị Eldritch Battery nếu mana thiếu"
+            ]
+        },
+        "2_9_1": {
+            "Name": "[Y:The Blood Aqueduct]",
+            "Tasks": [
+                "2 đường chạy song song — bị chặn → qua cầu nối → tiếp",
+                "Cuối zone → [Y:Highgate]",
+                "[BUILD] Farm Blood Aqueduct Lv58-62 — XP tốt + Humility cards!",
+                "[BUILD] Đây là spot farm tốt nhất trước maps"
+            ]
+        },
+        "2_9_town": {
+            "Name": "[Y:Highgate] (Act 9)",
+            "Tasks": [
+                "[C:Irasha]: weapons, armour",
+                "[C:Petarus & Vanja]: potions, jewelry — ID miễn phí",
+                "[C:Faustus]: gambler + respec",
+                "[C:Tasuni]: divination cards",
+                "go NE → [Y:The Descent]"
+            ]
+        },
+        "2_9_2": {
+            "Name": "[Y:The Descent]",
+            "Tasks": [
+                "3 zone Similar to nhau — go East + slightly NORTH → [G:Supply Hoist]",
+                "SKIP Jun portals!",
+                "Tầng 3 → [Y:The Vastiri Desert]"
+            ]
+        },
+        "2_9_3": {
+            "Name": "[Y:The Vastiri Desert]",
+            "Tasks": [
+                "Zone KHỔNG LỒ! 3 Goal:",
+                "1) Find [G:Storm-Weathered Chest] (! trên minimap) → kill Mummies → pick up [G:Storm Blade]",
+                "2) Find [G:Crafting Altar] + [G:Waypoint] (vùng giữa khác)",
+                "3) Find lối bị chặn phía East",
+                "TP back to town → talk to [C:Petarus & Vanja] → receive [G:Bottled Storm]",
+                "Quay lại → mở cửa → [Y:The Oasis]",
+                "Sau Oasis: Find border còn lại → [Y:The Foothills]"
+            ]
+        },
+        "2_9_4": {
+            "Name": "[Y:The Oasis]",
+            "Tasks": [
+                "Zone lớn — Find [Y:The Sand Pit]",
+                "Boss [C:Shakari] — đánh đến ~60% HP → phase + lặn xuống đất",
+                "THEO đường burrowing CHẬM (đừng chạy hết = boss không theo!)",
+                "Cuối → [Y:The Swallowing Sands] → Defeat Shakari",
+                "talk to [C:Sin] → Pantheon",
+                "Quest Reward: [G:Passive Skill Point]",
+                "Về [Y:Vastiri Desert] → Find [Y:The Foothills]"
+            ]
+        },
+        "2_9_5": {
+            "Name": "[Y:The Foothills]",
+            "Tasks": [
+                "Đường North rõ ràng → [G:Waypoint] — 2 Goal:",
+                "1) Tiếp tục → [Y:The Boiling Lake] (quest + boss)",
+                "2) Quay lại → Find [Y:The Tunnel] (góc đối diện cùng phía)",
+                "((Optional)) Kill [C:Boulderback] → [G:Calendar of Fortune] → respec point"
+            ]
+        },
+        "2_9_6": {
+            "Name": "[Y:The Boiling Lake]",
+            "Tasks": [
+                "Zone lớn — go North + East",
+                "Boss [C:The Basilisk] — đứng SAU nó nếu bị damage!",
+                "pick up [G:Basilisk Acid]",
+                "Về [Y:Foothills] → Find [Y:The Tunnel]"
+            ]
+        },
+        "2_9_7": {
+            "Name": "[Y:The Tunnel]",
+            "Tasks": [
+                "Linear zone + [G:Trial of Ascendancy] near entrance",
+                "Theo đường → [G:Waypoint] → [Y:The Quarry]"
+            ]
+        },
+        "2_9_8": {
+            "Name": "[Y:The Quarry]",
+            "Tasks": [
+                "Hub crossroads! go giữa zone → [G:Waypoint] + [C:Sin] + [G:Crafting Altar]",
+                "1) North + East → [Y:The Refinery] (boss + quest item)",
+                "2) Sau Refinery: Find [Y:Shrine of the Winds] (boss + pantheon)",
+                "3) Về WP → talk to [C:Sin] → mở [Y:Belly of the Beast]",
+                "[BUILD] Lv60+: Nên có Vaal Absolution — 300% damage Sentinel!"
+            ]
+        },
+        "2_9_9": {
+            "Name": "[Y:The Refinery]",
+            "Tasks": [
+                "Theo đường ray xe hàng trên đất!",
+                "West → North + West → Find ! = [C:General Adus]",
+                "Moves telegraphed = DAMAGE CỰC CAO + lightning!",
+                "pick up [G:Trarthan Powder] → về [Y:Quarry]"
+            ]
+        },
+        "2_9_8a": {
+            "Name": "[Y:Shrine of the Winds]",
+            "Tasks": [
+                "Boss [C:Garukhan & Kira] + nhiều tornadoes!",
+                "Tornadoes nhỏ = RẤT MẠNH! Bait boss enter vùng an toàn",
+                "talk to [C:Sin] → pick up [G:Sekhema Feather] → Skill Book",
+                "Quest Reward: [G:Passive Skill Point]",
+                "Về [Y:Quarry] → talk to [C:Sin] → mở [Y:Belly of the Beast]"
+            ]
+        },
+        "2_9_10_1": {
+            "Name": "[Y:Belly of the Beast] (Act 9)",
+            "Tasks": [
+                "Zone dài — go lên giữa-trên zone",
+                "CẨN THẬN Corrupted Blood stacks!",
+                "enter [Y:The Rotting Core]"
+            ]
+        },
+        "2_9_10_2": {
+            "Name": "[Y:The Rotting Core]",
+            "Tasks": [
+                "Zone nhỏ → [Y:The Black Core]",
+                "BOSS CUỐI ACT 9: 3 domain chiến đấu",
+                "1) [C:Doedre] → 2) [C:Maligaro] → 3) [C:Shavronne]",
+                "Cuối cùng: [C:The Depraved Trinity] (zombie combo 3 boss!)",
+                "talk to [C:Lilly] → sail away → [Y:Oriath Docks] (Act 10)"
+            ]
+        },
+        "2_10_town": {
+            "Name": "[Y:Oriath Docks]",
+            "Tasks": [
+                "[C:Weylam Roth]: weapons, armour",
+                "[C:Lani]: potions, jewelry — Free ID",
+                "[C:Faustus]: gambler + respec",
+                "[C:Lilly Roth]: gems",
+                "1 exit duy nhất → North → lên cầu thang → [Y:Cathedral Rooftop]",
+                "[BUILD] Chạy Merciless Labyrinth",
+                "[BUILD] Kiểm tra resist After Kitava Act 10 (-60% total resist penalty)"
+            ]
+        },
+        "2_10_1": {
+            "Name": "[Y:Cathedral Rooftop] (Act 10)",
+            "Tasks": [
+                "Ngay West entrance → [Y:Cathedral Apex]",
+                "Defeat horde + mini boss [C:Plaguewing]",
+                "talk to [C:Bannon]",
+                "Quest Reward: [G:Flask Selection]",
+                "Quay ra → go SE (rất xa!) → [Y:The Ravaged Square]"
+            ]
+        },
+        "2_10_2": {
+            "Name": "[Y:The Ravaged Square]",
+            "Tasks": [
+                "Hub crossroads KHỔNG LỒ! 4 Goal:",
+                "1) South → [Y:The Control Blocks] → boss Vilenta",
+                "2) East qua cầu → North → [G:Waypoint] + [Y:The Ossuary] (Trial!)",
+                "SKIP Reliquary nếu thấy!",
+                "3) East + South → [Y:The Torched Courts] → Avarius",
+                "4) Về WP → talk to [C:Innocence] → mở [Y:The Canals]"
+            ]
+        },
+        "2_10_7": {
+            "Name": "[Y:The Control Blocks] (Act 10)",
+            "Tasks": [
+                "Similar to before — blink through fence gaps!",
+                "End of zone: arena → [C:Vilenta] boss",
+                "Quest Reward: [G:Passive Skill Point]",
+                "Back to [Y:Ravaged Square] → cross bridge → [Y:Ossuary]"
+            ]
+        },
+        "2_10_9": {
+            "Name": "[Y:The Ossuary] (Act 10)",
+            "Tasks": [
+                "(Optional) Find [G:Elixir of Allure] → quest No Love for Old Ghosts",
+                "Quest Reward: [G:Passive Respec Points]",
+                "Take [G:Crafting Altar]",
+                "[G:Trial of Ascendancy] — LAST TRIAL for Third Labyrinth!",
+                "Can run Lab before Act 10 boss if desired",
+                "Back to [Y:Ravaged Square] → SOUTH + EAST → [Y:Torched Courts]"
+            ]
+        },
+        "2_10_3": {
+            "Name": "[Y:The Torched Courts] (Act 10)",
+            "Tasks": [
+                "3rd time! Circle clockwise",
+                "Start at 12 o'clock → EAST → SOUTH → WEST → slightly NORTH",
+                "Enter [Y:The Desecrated Chambers]"
+            ]
+        },
+        "2_10_4": {
+            "Name": "[Y:The Desecrated Chambers]",
+            "Tasks": [
+                "Semi-circle counter-clockwise (WEST → SOUTH → EAST → slightly NORTH)",
+                "[C:Avarius, Reassembled] boss — 2nd time!",
+                "Adds red beam + 1-shot melee swing → DODGE!",
+                "Pick up [G:The Staff of Purity]",
+                "Back to town talk to [C:Bannon] → [C:Innocence] appears",
+                "Back to [Y:Ravaged Square] → talk to [C:Innocence] (NE from WP) → open [Y:Canals]"
+            ]
+        },
+        "2_10_5": {
+            "Name": "[Y:The Canals]",
+            "Tasks": [
+                "Linear zone — go West + North → top of zone",
+                "Enter [Y:The Feeding Trough]"
+            ]
+        },
+        "2_10_6": {
+            "Name": "[Y:The Feeding Trough]",
+            "Tasks": [
+                "Same as Canals — WEST + NORTH → top of zone",
+                "Take [G:Crafting Altar] → talk to [C:Sin]",
+                "Enter [Y:Altar of Hunger] → FINAL BOSS: [C:Kitava, the Insatiable]",
+                "After victory: talk to [C:Sin] → portal → [Y:Oriath Docks]",
+                "talk to [C:Lilly Roth] → sail away → [Y:Karui Shores]",
+                "[BUILD] After Kitava Act 10: -30% resist additional! Cap resist ngay!",
+                "[BUILD] Setup for Maps: Absolution + Phys to Lightning + Spellslinger + supports",
+                "[BUILD] take Eldritch Battery keystone if not yet",
+                "[BUILD] Craft wand trigger: Elemental Weakness + Desecrate + Spirit Offering"
+            ]
+        },
+        "2_11_endgame_town": {
+            "Name": "[Y:Karui Shores]",
+            "Tasks": [
+                "Epilogue — 4 simple steps:",
+                "1) Take [G:Crafting Altar]",
+                "2) Talk to [C:Lani] → 2 Skill Points",
+                "3) talk to [C:Kirac] → receive map",
+                "4) Open Map Device → kill boss → CAMPAIGN FINISHED!",
+                "Type /passives để confirm received enough 24 passive quest (Kill All) hoặc 23 (Help Bandit)",
+                "Switch to Hideout → begin ENDGAME!",
+                "[BUILD] ===== enter MAPS — ABSOLUTION GUARDIAN 3.28 =====",
+                "[BUILD] Block nodes: Sanctuary + Safeguard + Mystic Bark",
+                "[BUILD] Goal: ~40% attack block, ~67% spell block",
+                "[BUILD] Flask: Rithen Jar — gen worms → kill → stack Sentinels",
+                "[BUILD] Lv90-96: take Enduring Composure for Endurance Charges",
+                "[BUILD] Lv96+: Doriani's Prototype + Divine Flesh + 4 corrupted items",
+                "[BUILD] Maps new 3.28: Nightmare Maps (T17) for Atlas Skill Points"
+            ]
+        }
+    }
+}

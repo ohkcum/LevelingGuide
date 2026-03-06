@@ -1,0 +1,280 @@
+{
+    "BuildName": "Absolution Guardian (PoE 3.28 Mirage)",
+    "Class": "Templar → Guardian",
+    "PatchVersion": "3.28 Mirage",
+    "PatchNotes_328": [
+        "Sentinel duration: 15s (tăng từ 10s)",
+        "Debuff duration: 3s (tăng từ 1s)",
+        "Sentinel of Radiance: VĨNH VIỄN (không còn duration)",
+        "Vaal Absolution Sentinel: 300% damage (tăng từ 200%)",
+        "Atlas rework: Map không còn gắn tên area cụ thể",
+        "Nightmare Maps (T17): cho Atlas Skill Points",
+        "New gem: Siphoning Trap of Pain (Int/Dex)"
+    ],
+    "GemSetup": {
+        "Phase1_Lv1_11": {
+            "Label": "Trước Absolution (Lv1-11)",
+            "MainSkill": "Rolling Magma + Elemental Proliferation + Combustion",
+            "Support": "Holy Flame Totem (clear phụ)",
+            "Movement": "Frost Blink",
+            "Note": "Nhặt gear có Life + Resistance. Không cần stress về gear."
+        },
+        "Phase2_Lv12_32": {
+            "Label": "Bắt đầu Absolution (Lv12-32)",
+            "MainSkill": "Absolution + Added Lightning Damage + Added Fire Damage",
+            "Support": "Holy Flame Totem (hỗ trợ clear + distract boss)",
+            "Movement": "Shield Charge + Frost Blink",
+            "Auras": "Vitality + Clarity",
+            "PassiveGoal": "Spiritual Command → Enduring Bond (NODE QUAN TRỌNG NHẤT)",
+            "Note": "Lấy Unholy Might sớm (1 điểm), BỎ khi có Enduring Bond ở Lv22"
+        },
+        "Phase3_Lv33_44": {
+            "Label": "Ascendancy đầu + Nâng cấp (Lv33-44)",
+            "MainSkill": "Absolution + Added Lightning + Added Fire + Physical to Lightning",
+            "Support": "Holy Flame Totem",
+            "Movement": "Shield Charge + Frost Blink",
+            "Auras": "Vitality + Clarity",
+            "Ascendancy": "Radiant Crusade → Sentinel of Radiance (VĨNH VIỄN trong 3.28, 20% dmg mitigation)",
+            "Note": "XÓA mastery Unholy Might khi có Physical to Lightning! Chaos dmg không hiệu quả nữa."
+        },
+        "Phase4_Lv45_70": {
+            "Label": "Golem + Đến Maps (Lv45-70)",
+            "MainSkill": "Absolution + Physical to Lightning + Spellslinger Core + Added Fire/Lightning",
+            "Support": "Summon Stone Golem + Feeding Frenzy",
+            "Movement": "Shield Charge + Frost Blink",
+            "Auras": "Vitality + Clarity",
+            "Ascendancy": "Unwavering Crusade (Elemental Relics cho minions)",
+            "Note": "Tìm Vaal Absolution — Sentinel 300% damage trong 3.28!"
+        },
+        "Phase5_Lv70_89": {
+            "Label": "Early Maps (Lv70-89)",
+            "MainSkill": "Vaal Absolution + Full 6-Link supports",
+            "Support": "Stone Golem + Feeding Frenzy",
+            "Movement": "Shield Charge + Frost Blink",
+            "Auras": "Vitality + Clarity + Haste",
+            "Defense": "Block nodes: Sanctuary + Safeguard + Mystic Bark (~40% attack, ~67% spell block)",
+            "Keystone": "Eldritch Battery (dùng ES thay Mana, cast liên tục)",
+            "WandTrigger": "Elemental Weakness + Desecrate + Spirit Offering (auto-cast khi dùng skill)",
+            "Flask": "Rithen Jar — triệu hồi worms, giết để stack 3 Sentinel trước boss",
+            "Note": "Lấy Enduring Composure (Lv90-96) cho Endurance Charges"
+        },
+        "Phase6_Lv90_95": {
+            "Label": "Full Setup (Lv90-95)",
+            "MainSkill": "Vaal Absolution + Awakened supports",
+            "Defense": "Endurance Charges via Enduring Composure",
+            "WandTrigger": "Elemental Weakness + Desecrate + Spirit Offering",
+            "Note": "Farm currency cho Doriani's Prototype setup"
+        },
+        "Phase7_Lv96_plus": {
+            "Label": "Doriani's Prototype Endgame (Lv96+)",
+            "MainSkill": "Vaal Absolution + Awakened supports",
+            "UniqueGear": "Doriani's Prototype + Dawn Breaker + Glorious Vanity (Xibaqua → Divine Flesh)",
+            "Ascendancy": "Chaos Ascendancy — Corruption Embrace (cần 4 corrupted items)",
+            "Requirements": [
+                "Lightning Resistance PHẢI ÂM",
+                "Chaos Resistance PHẢI CAP (do Divine Flesh)",
+                "Chạy Purity of Fire để cap Fire Res",
+                "Ít nhất 4 corrupted items cho Shaper of Souls",
+                "Vaal Absolution cost giảm còn 5 souls"
+            ],
+            "Note": "Dawn Breaker trừ block khi nhận fire dmg — HP cao bù lại"
+        }
+    },
+    "LevelingRoadmap": [
+        {
+            "Level": "1-11",
+            "Skill": "Rolling Magma + Totem",
+            "PassiveGoal": "Đi về Spiritual Command",
+            "Note": "Sống sót qua Brutus"
+        },
+        {
+            "Level": "12-21",
+            "Skill": "Absolution bắt đầu!",
+            "PassiveGoal": "Đến Spiritual Command",
+            "Note": "Nhớ lấy gem support"
+        },
+        {
+            "Level": "22-32",
+            "Skill": "Absolution + Supports",
+            "PassiveGoal": "Đến Enduring Bond ⭐",
+            "Note": "NODE QUAN TRỌNG NHẤT"
+        },
+        {
+            "Level": "33-44",
+            "Skill": "Absolution + Phys→Lightning",
+            "PassiveGoal": "Radiant Crusade ascendancy",
+            "Note": "Bỏ Unholy Might mastery"
+        },
+        {
+            "Level": "45-70",
+            "Skill": "Absolution + Golem",
+            "PassiveGoal": "Unwavering Crusade",
+            "Note": "Chuẩn bị vào maps"
+        },
+        {
+            "Level": "70-89",
+            "Skill": "Vaal Absolution!",
+            "PassiveGoal": "Block nodes + EB",
+            "Note": "Lấy Enduring Composure"
+        },
+        {
+            "Level": "90-95",
+            "Skill": "Full setup + Wand Trigger",
+            "PassiveGoal": "Endurance Charges nodes",
+            "Note": "Farm currency cho endgame"
+        },
+        {
+            "Level": "96+",
+            "Skill": "Doriani's Prototype",
+            "PassiveGoal": "Chaos Ascendancy (4 corrupted)",
+            "Note": "Cap Chaos Res bắt buộc!"
+        }
+    ],
+    "PassiveTreeStages": [
+        {
+            "Name": "Stage 1: Spiritual Command",
+            "MinLevel": 1,
+            "MaxLevel": 11,
+            "PassiveGoal": "Đi về Spiritual Command",
+            "Skill": "Rolling Magma + Totem",
+            "TreeUrl": ""
+        },
+        {
+            "Name": "Stage 2: Absolution Start",
+            "MinLevel": 12,
+            "MaxLevel": 21,
+            "PassiveGoal": "Đến Spiritual Command",
+            "Skill": "Absolution bắt đầu!",
+            "TreeUrl": ""
+        },
+        {
+            "Name": "Stage 3: Enduring Bond ⭐",
+            "MinLevel": 22,
+            "MaxLevel": 32,
+            "PassiveGoal": "Đến Enduring Bond — NODE QUAN TRỌNG NHẤT",
+            "Skill": "Absolution + Supports",
+            "TreeUrl": ""
+        },
+        {
+            "Name": "Stage 4: Radiant Crusade",
+            "MinLevel": 33,
+            "MaxLevel": 44,
+            "PassiveGoal": "Radiant Crusade ascendancy — Bỏ Unholy Might mastery",
+            "Skill": "Absolution + Phys→Lightning",
+            "TreeUrl": ""
+        },
+        {
+            "Name": "Stage 5: Unwavering Crusade",
+            "MinLevel": 45,
+            "MaxLevel": 70,
+            "PassiveGoal": "Unwavering Crusade — Chuẩn bị vào maps",
+            "Skill": "Absolution + Golem",
+            "TreeUrl": ""
+        },
+        {
+            "Name": "Stage 6: Block + EB",
+            "MinLevel": 70,
+            "MaxLevel": 89,
+            "PassiveGoal": "Block nodes + Eldritch Battery",
+            "Skill": "Vaal Absolution!",
+            "TreeUrl": ""
+        },
+        {
+            "Name": "Stage 7: Endurance Charges",
+            "MinLevel": 90,
+            "MaxLevel": 95,
+            "PassiveGoal": "Endurance Charges nodes — Enduring Composure",
+            "Skill": "Full setup + Wand Trigger",
+            "TreeUrl": ""
+        },
+        {
+            "Name": "Stage 8: Doriani's Prototype",
+            "MinLevel": 96,
+            "MaxLevel": 100,
+            "PassiveGoal": "Chaos Ascendancy (4 corrupted) — Cap Chaos Res!",
+            "Skill": "Doriani's Prototype Endgame",
+            "TreeUrl": ""
+        }
+    ],
+    "NewbieTips": [
+        "Luôn ưu tiên Life và Resistance trên gear — nguyên tắc vàng",
+        "Không cần gear hoàn hảo để clear campaign — cứ move on",
+        "Enduring Bond là node passive quan trọng nhất — đừng bỏ qua",
+        "Rithen Jar flask rẻ và cực kỳ tiện để stack Sentinels trước boss",
+        "Shield Charge + Frost Blink để di chuyển — không chạy bộ",
+        "Sentinel of Radiance VĨNH VIỄN trong 3.28 — chỉ resummon khi chết/đổi zone",
+        "Dùng Golem cho đơn giản nếu chưa hiểu Spectre",
+        "Vaal Absolution cần souls — dùng Rithen Jar để gen souls nhanh",
+        "Sau Eldritch Battery: KHÔNG đầu tư Mana, tập trung ES + Life",
+        "Gõ /passives cuối campaign để check đủ passive points từ quest"
+    ],
+    "RequiredGems": {
+        "Phase1_Lv1_11": {
+            "Gems": [
+                "Rolling Magma",
+                "Elemental Proliferation",
+                "Combustion",
+                "Holy Flame Totem",
+                "Frost Blink"
+            ],
+            "Source": "Quest reward / Nessa"
+        },
+        "Phase2_Lv12_32": {
+            "Gems": [
+                "Absolution",
+                "Added Lightning Damage",
+                "Added Fire Damage",
+                "Shield Charge",
+                "Vitality",
+                "Clarity"
+            ],
+            "Source": "Quest reward / Nessa / Yeena"
+        },
+        "Phase3_Lv33_44": {
+            "Gems": [
+                "Physical to Lightning"
+            ],
+            "Source": "Siosa (Library) / Lilly Roth (Act 6)"
+        },
+        "Phase4_Lv45_70": {
+            "Gems": [
+                "Summon Stone Golem",
+                "Feeding Frenzy",
+                "Vaal Absolution"
+            ],
+            "Source": "Lilly Roth (Act 6) / Vaal side area"
+        },
+        "Phase5_Lv70_89": {
+            "Gems": [
+                "Elemental Weakness",
+                "Desecrate",
+                "Spirit Offering",
+                "Haste",
+                "Tempest Shield"
+            ],
+            "Source": "Lilly Roth (Act 6)"
+        }
+    },
+    "AllRequiredGemNames": [
+        "Rolling Magma",
+        "Elemental Proliferation",
+        "Combustion",
+        "Holy Flame Totem",
+        "Frost Blink",
+        "Absolution",
+        "Added Lightning Damage",
+        "Added Fire Damage",
+        "Shield Charge",
+        "Vitality",
+        "Clarity",
+        "Physical to Lightning",
+        "Summon Stone Golem",
+        "Feeding Frenzy",
+        "Vaal Absolution",
+        "Elemental Weakness",
+        "Desecrate",
+        "Spirit Offering",
+        "Haste",
+        "Tempest Shield"
+    ]
+}
