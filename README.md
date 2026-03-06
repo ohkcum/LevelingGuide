@@ -1,10 +1,6 @@
 # Path of Exile Leveling Guide Plugin (ExileAPI)
 <br>
 
-<div align="center">
-  <img src="https://i.imgur.com/rB0rY6e.png" alt="Leveling Guide Preview" width="600"/>
-</div>
-
 <p align="center">
   [ <b><a href="#english">English</a></b> | <b><a href="#tiếng-việt">Tiếng Việt</a></b> ]
 </p>
@@ -15,7 +11,7 @@
 
 <h2 id="english">🇬🇧 English</h2>
 
-A lightweight, multi-language (English/Vietnamese) leveling assistant plugin for Path of Exile, designed specifically for **ExileAPI**. It displays a transparent overlay with step-by-step leveling tasks, zone info, recommended levels, and automated passive tree switching.
+A lightweight, multi-language (English/Vietnamese) leveling assistant plugin for Path of Exile, designed specifically for **[ExileAPI](https://github.com/exApiTools/ExileApi-Compiled)**. It displays a transparent overlay with step-by-step leveling tasks, zone info, recommended levels, and automated passive tree switching.
 
 ### ✨ Features
 - **Multi-Language Support**: Swap between English and Vietnamese on the fly straight from the UI. All interface texts and guide contents are fully translated.
@@ -67,7 +63,7 @@ If you switch to Vietnamese (`vn`) but see squares or question marks (`?`) inste
 
 <h2 id="tiếng-việt">🇻🇳 Tiếng Việt</h2>
 
-Plugin hỗ trợ leveling (cày cấp) gọn nhẹ đa ngôn ngữ (Tiếng Anh/Tiếng Việt) dành riêng cho **ExileAPI** trong Path of Exile. Nó hiển thị một bảng trong suốt trên màn hình chứa các nhiệm vụ từng bước, thông tin khu vực, level đề xuất, và tự động chuyển đổi bảng Passive Tree.
+Plugin hỗ trợ leveling (cày cấp) gọn nhẹ đa ngôn ngữ (Tiếng Anh/Tiếng Việt) dành riêng cho **[ExileAPI](https://github.com/exApiTools/ExileApi-Compiled)** trong Path of Exile. Nó hiển thị một bảng trong suốt trên màn hình chứa các nhiệm vụ từng bước, thông tin khu vực, level đề xuất, và tự động chuyển đổi bảng Passive Tree.
 
 ### ✨ Tính Năng Nổi Bật
 - **Hỗ trợ Đa Ngôn Ngữ**: Thay đổi giữa Tiếng Anh và Tiếng Việt ngay lập tức trong Menu. Toàn bộ chữ trên GUI và nội dung đều được dịch mượt mà.
