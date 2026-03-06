@@ -43,17 +43,13 @@ The plugin comes with a default `Absolution_Guardian` build. To add your own:
 ### ⚠️ How to Fix Missing/Square Vietnamese Text (Font Issue)
 If you switch to Vietnamese (`vn`) but see squares or question marks (`?`) instead of text, it's because your **ExileAPI Core** is not using a unicode-supported font.
 
-**Fix 1: Via ExileAPI Menu**
-1. Open ExileAPI menu (`F2`).
-2. Go to `Core` -> `ThemeEditor` (or Font Settings).
-3. Change the `Font` path to a standard font like Arial. E.g.: `C:\Windows\Fonts\arial.ttf`
+**The Easiest Fix:**
+1. We have provided a pre-configured `settings.json` file in this repository.
+2. Go to your ExileAPI root folder, then open the `config` folder.
+3. Replace the existing `settings.json` file there with the `settings.json` file provided in this plugin's folder.
 4. Restart ExileAPI.
 
-**Fix 2: Via Config File**
-1. Go to your ExileAPI folder -> `config` folder.
-2. Open `settings.json` or `CoreSettings.json` with a text editor.
-3. Find `"FontPath"` and change it to `"C:\\Windows\\Fonts\\arial.ttf"`.
-4. Save the file and restart ExileAPI.
+*(Alternatively, you can manually open the ExileAPI `F2` Menu -> `Core` -> `ThemeEditor` and change the `Font` path to `C:\Windows\Fonts\arial.ttf`)*
 
 <br>
 
@@ -93,19 +89,15 @@ Plugin có sẵn một build mẫu `Absolution_Guardian`. Để thêm build củ
 - **Chọn Build**: Dùng menu thả xuống ở mục `Selected Build` để tìm và kích hoạt build.
 
 ### ⚠️ Lỗi Hiển Thị Font Chữ Tiếng Việt (Hình Vuông, Dấu Chấm Hỏi)
-Lý do bị lỗi chữ hình vuông là do **bản ExileAPI gốc chưa được cài đặt font hỗ trợ tiếng Việt**. Plugin chỉ mượn thư viện chữ của ExileAPI để vẽ, chứ không tự có font riêng. Hãy làm theo cách sau để sửa lỗi vĩnh viễn:
+Lý do bị lỗi chữ hình vuông là do **bản ExileAPI gốc chưa được cài đặt font hỗ trợ tiếng Việt**. Tụi mình đã chuẩn bị sẵn file cấu hình chứa font tiếng Việt gốc cho bạn:
 
-**Cách 1: Sửa qua Menu ExileAPI**
-1. Vào game và mở menu ExileAPI (`F2`).
-2. Vào tab `Core` -> Chọn `ThemeEditor`.
-3. Tìm vùng cấu hình đường dẫn **Font** và sửa lại thành một font chuẩn có tiếng Việt (Ví dụ: `C:\Windows\Fonts\arial.ttf` hoặc `.tahoma.ttf`).
-4. Tắt đi bật lại ExileAPI.
+**Cách Khắc Phục Nhanh Nhất:**
+1. Trong thư mục của plugin này, bạn sẽ thấy một file tên là `settings.json`.
+2. Mở thư mục chứa ExileAPI gốc của bạn, vào folder tên là `config`.
+3. Thay thế (ghi đè) file `settings.json` cũ ở đó bằng file `settings.json` mà tụi mình cung cấp.
+4. Mở lại ExileAPI là sẽ có tiếng Việt 100%.
 
-**Cách 2: Sửa bằng file config**
-1. Mở thư mục chứa ExileAPI gốc, vào folder `config`.
-2. Mở file `settings.json` (hoặc `CoreSettings.json`) bằng Notepad.
-3. Tìm đến dòng có chứa chữ `"FontPath"`. Sửa đường dẫn bên cạnh thành một font hỗ trợ unicode. VD: `"FontPath": "C:\\Windows\\Fonts\\arial.ttf"`.
-4. Lưu file và khởi động lại ExileAPI. 
+*(Cách thủ công: Bạn cũng có thể mở menu `F2` -> `Core` -> `ThemeEditor` và tự đổi đường dẫn `Font` thành `C:\Windows\Fonts\arial.ttf`)*
 
 <br>
 
